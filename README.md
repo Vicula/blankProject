@@ -6,7 +6,7 @@
 Start the development server with this command:
 
 ```
-npm start
+npm run go
 
 ```
 ----
@@ -15,7 +15,7 @@ npm start
 
 -------
 ```
-npm instal
+npm install
 
 ```
 -------
