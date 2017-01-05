@@ -4,9 +4,10 @@
   "description": "Blank Project -- by Vicula",
   "main": "index.js",
   "scripts": {
-    "compile": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+   "compile": "webpack",
+   "start": "node server.js",
+   "test": "echo \"Error: no test specified\" && exit 1"
+ },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Vicula/blankProject.git"
